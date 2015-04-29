@@ -52,7 +52,7 @@ h2 {
 
 #header-contact-container button {
 	color:#fff;
-	background-color:green;
+	background-color:#179626;;
 	padding: 5px 15px 5px 15px;
 	border:0;
 	border-radius:10px;
@@ -73,7 +73,8 @@ nav ul {
 
 nav li {
 	list-style:none;
-	padding: 0 2px 0 2px;
+	padding:0;
+	display:inline;
 }
 
 nav button {
